@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-### Hi there 👋, My Name is **Abdo Hamada** #### **Flutter Developer** ![**Flutter Developer**](https://github.com/Mirzaazmath/threads_clone/blob/main/assets/
-
+### Hi My Name is **Abdo Hamada** 👋, 
+###Flutter Developer
 
 <!--
 **AbdoHamada15/Abdohamada15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
