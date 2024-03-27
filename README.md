@@ -1,11 +1,6 @@
-
-### Hi My Name is **Abdo Hamada** 👋, 
-
-Flutter Developer
-
-
 # 💫 About Me:
-Flutter Developer 
+**Abdo Hamada** 
+Flutter Developer  
 
 
 ## 🌐 Socials:
