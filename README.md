@@ -1,4 +1,4 @@
-# 💫 About Me:    Abdo Hamada
+# 💫 Abdo Hamada
 
 Flutter Developer  
 
